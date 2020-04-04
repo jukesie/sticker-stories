@@ -18,6 +18,9 @@ So here is what I am looking for....artwork for the stickers. Vector files would
 - Behind the sticker story:
 
 
+Any questions please add an Issue --> https://github.com/jukesie/sticker-stories/issues
+
+
 -----
 
 **IF GITHUB IS NOT YOUR BAG YOU CAN UPLOAD FILES TO DROPBOX**
