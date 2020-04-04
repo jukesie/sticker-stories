@@ -18,6 +18,8 @@ So here is what I am looking for....artwork for the stickers. Vector files would
 - Behind the sticker story:
 
 
+-----
+
 **IF GITHUB IS NOT YOUR BAG YOU CAN UPLOAD FILES TO DROPBOX**
 
 https://www.dropbox.com/request/CA4wFdUKGttVwi9tMbL2
