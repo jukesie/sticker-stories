@@ -8,12 +8,12 @@ Eventually it will be a book. Once all this COVID-19 stuff subsides!
 
 So here is what I am looking for....artwork for the stickers. Vector files would be perfect. Original JPEGs, PNGs, PDFs are still fine. All art submitted should include a .txt file that includes as many of these details as possible:
 
-Designer(s):
-Organisation:
-Team:
-Year:
-Licence: https://creativecommons.org/licenses/
-Willingness to be contacted: Y/N
+- Designer(s):
+- Organisation:
+- Team:
+- Year:
+- Licence: https://creativecommons.org/licenses/
+- Willingness to be contacted: Y/N
 
-Behind the sticker story:
+- Behind the sticker story:
 
